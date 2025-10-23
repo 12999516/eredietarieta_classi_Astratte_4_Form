@@ -9,5 +9,10 @@ namespace es
     public abstract class CElementoMultimediale
     {
         public abstract string Titolo { get; set; }
+
+        public override string ToString()
+        {
+            return Titolo;
+        }
     }
 }

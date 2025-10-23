@@ -8,7 +8,6 @@ namespace es
 {
     internal interface ILuminosita
     {
-        int luminosita { get; set; }
         void darker();
         void brighter();
     }

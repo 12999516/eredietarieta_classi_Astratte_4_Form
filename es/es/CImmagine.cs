@@ -8,8 +8,8 @@ namespace es
 {
     internal class CImmagine:CElementoMultimediale, ILuminosita
     {
-        public override string Titolo { get; set; }
         public int luminosita { get; set; }
+        public override string Titolo { get; set; }
 
         public CImmagine(string titolo)
         {

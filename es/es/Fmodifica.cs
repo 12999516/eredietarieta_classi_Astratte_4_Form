@@ -88,7 +88,7 @@ namespace es
 
         private void btn_Aumenta_Click(object sender, EventArgs e)
         {
-            if (rdb_luminosita.Checked && cmb_elemento.SelectedItem != null)
+             if (rdb_luminosita.Checked && cmb_elemento.SelectedItem != null)
             {
                 modifica(true, true);
             }

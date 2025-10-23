@@ -8,8 +8,6 @@ namespace es
 {
     internal interface IRiproducibile
     {
-        int volume { get; set; }
-        int durata { get; set; }
         void weaker();
         void louder();
         string play();

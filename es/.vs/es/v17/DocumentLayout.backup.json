@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\",
+  "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\es\\es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\fmodifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\fmodifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\iriproducibile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\iriproducibile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\iluminosita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\iluminosita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\cregistrazioneaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\cregistrazioneaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\cfilmato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\cfilmato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\eredietarieta_classi_astratte_4_form\\es\\es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\es\\es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\es\\es\\ffiltra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\ffiltra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\ffiltra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\es\\es\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\es\\es\\fmodifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\fmodifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4_form\\es\\es\\ffiltra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B27CB99-3949-43F6-AA58-29ECB12254AE}|es\\es.csproj|solutionrelative:es\\ffiltra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CElementoMultimediale.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\CElementoMultimediale.cs",
-              "RelativeDocumentMoniker": "es\\CElementoMultimediale.cs",
-              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\CElementoMultimediale.cs",
-              "RelativeToolTip": "es\\CElementoMultimediale.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Fmodifica.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\Fmodifica.cs",
+              "RelativeDocumentMoniker": "es\\Fmodifica.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\Fmodifica.cs",
+              "RelativeToolTip": "es\\Fmodifica.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:54:44.904Z",
+              "WhenOpened": "2025-10-23T08:58:55.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\Program.cs",
+              "RelativeDocumentMoniker": "es\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\Program.cs",
+              "RelativeToolTip": "es\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:58:48.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FFiltra.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\FFiltra.cs",
-              "RelativeDocumentMoniker": "es\\FFiltra.cs",
-              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\FFiltra.cs",
-              "RelativeToolTip": "es\\FFiltra.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Title": "IRiproducibile.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\IRiproducibile.cs",
+              "RelativeDocumentMoniker": "es\\IRiproducibile.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\IRiproducibile.cs",
+              "RelativeToolTip": "es\\IRiproducibile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:47:34.504Z",
+              "WhenOpened": "2025-10-23T08:58:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILuminosita.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\ILuminosita.cs",
+              "RelativeDocumentMoniker": "es\\ILuminosita.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\ILuminosita.cs",
+              "RelativeToolTip": "es\\ILuminosita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:58:46.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRegistrazioneAudio.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CRegistrazioneAudio.cs",
+              "RelativeDocumentMoniker": "es\\CRegistrazioneAudio.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CRegistrazioneAudio.cs",
+              "RelativeToolTip": "es\\CRegistrazioneAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:58:44.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FFiltra.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\FFiltra.cs",
+              "Title": "CImmagine.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CImmagine.cs",
+              "RelativeDocumentMoniker": "es\\CImmagine.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CImmagine.cs",
+              "RelativeToolTip": "es\\CImmagine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:58:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CFilmato.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CFilmato.cs",
+              "RelativeDocumentMoniker": "es\\CFilmato.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CFilmato.cs",
+              "RelativeToolTip": "es\\CFilmato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:58:41.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FFiltra.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\FFiltra.cs",
               "RelativeDocumentMoniker": "es\\FFiltra.cs",
-              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\FFiltra.cs [Progettazione]",
-              "RelativeToolTip": "es\\FFiltra.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\FFiltra.cs",
+              "RelativeToolTip": "es\\FFiltra.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:33:48.436Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2025-10-22T18:47:34.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Fmodifica.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\Fmodifica.cs",
-              "RelativeDocumentMoniker": "es\\Fmodifica.cs",
-              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\Fmodifica.cs [Progettazione]",
-              "RelativeToolTip": "es\\Fmodifica.cs [Progettazione]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:33:39.055Z",
-              "EditorCaption": " [Progettazione]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\Form1.cs",
               "RelativeDocumentMoniker": "es\\Form1.cs",
-              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\Form1.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\Form1.cs",
               "RelativeToolTip": "es\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwCAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T16:56:30.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\Form1.cs",
-              "RelativeDocumentMoniker": "es\\Form1.cs",
-              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\es\\es\\Form1.cs [Progettazione]",
-              "RelativeToolTip": "es\\Form1.cs [Progettazione]",
+              "DocumentIndex": 9,
+              "Title": "CElementoMultimediale.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CElementoMultimediale.cs",
+              "RelativeDocumentMoniker": "es\\CElementoMultimediale.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4_form\\eredietarieta_classi_Astratte_4_Form\\es\\es\\CElementoMultimediale.cs",
+              "RelativeToolTip": "es\\CElementoMultimediale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:51:24.903Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2025-10-22T18:54:44.904Z"
             }
           ]
         }

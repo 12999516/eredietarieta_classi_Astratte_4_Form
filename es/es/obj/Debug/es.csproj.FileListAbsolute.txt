@@ -11,3 +11,16 @@ C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\es\es\obj\Debug\es.csp
 C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\es\es\obj\Debug\es.exe
 C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\es\es\obj\Debug\es.pdb
 C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\es\es\obj\Debug\es.exe.config
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\bin\Debug\es.exe.config
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\bin\Debug\es.exe
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\bin\Debug\es.pdb
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.exe.config
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.FFiltra.resources
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.Fmodifica.resources
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.Form1.resources
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.Properties.Resources.resources
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.exe
+C:\Users\sebas\Desktop\classi_Astratte_interfaccie_4_form\eredietarieta_classi_Astratte_4_Form\es\es\obj\Debug\es.pdb
